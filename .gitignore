@@ -1,4 +1,13 @@
-# Byte-compiled / optimized / DLL files
+# ignore OS files
+.idea/
+.vscode/
+.DS_Store
+data/
+.env
+*local
+*local/
+
+# Byte-compiled / optimiazed / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
